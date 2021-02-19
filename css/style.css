@@ -40,3 +40,13 @@ h2{
 .wrapper > * {
     padding: 16px;
 }
+
+
+.description{
+    background-color: #48d1cc;
+}
+
+.description h2,
+.description p{
+    margin: 0 0 16px;
+}
