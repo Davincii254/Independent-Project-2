@@ -17,3 +17,10 @@ body{
     margin-right: auto;
     padding: 16px;
 }
+
+
+.brand{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
