@@ -18,7 +18,7 @@ git clone https://github.com/Derrick-Nyongesa/Independent-Project-2.git
 2. Open index.html in a browser.
 
 ## Link to live site on GitHub Pages
-[Derrick Nyongesa https://derrick-nyongesa.github.io/independent-project-2/](https://derrick-nyongesa.github.io/independent-project-2/)
+[Derrick Nyongesa https://https://derrick-nyongesa.github.io/independent-project/](https://https://derrick-nyongesa.github.io/independent-project/)
 
 ## Copyright and license information
 Licensed under the [MIT license](LICENSE).
