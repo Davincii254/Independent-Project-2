@@ -33,8 +33,8 @@ h2{
 
 .wrapper {
     box-shadow: 0 0 20px 0 rgba(0, 9, 19, 0.7);
-    display: grid;
-    grid-template-columns: 1fr 2fr;
+    /*display: grid;
+    grid-template-columns: 1fr 2fr;*/
 }
 
 .wrapper > * {
@@ -101,4 +101,27 @@ button{
 button:hover{
     background: #92bde7;
     color:#f4f4f4;
+}
+
+
+@media(min-width: 700px) {
+    .wrapper {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+    }
+
+    .wrapper > * {
+        padding: 2em;
+    }
+
+    .description h2,
+    .description p,
+    .brand {
+        text-align: left;
+    }
+
+    form{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+    }
 }
