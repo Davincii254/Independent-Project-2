@@ -1,0 +1,1 @@
+const myForm = document.getElementById("myForm"); //gets element by id of myForm
