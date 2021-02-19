@@ -50,3 +50,9 @@ h2{
 .description p{
     margin: 0 0 16px;
 }
+
+
+.form{
+    background: #f9feff;
+    padding-top: 60px;
+}
