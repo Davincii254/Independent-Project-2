@@ -56,3 +56,24 @@ h2{
     background: #f9feff;
     padding-top: 60px;
 }
+
+
+.form form label{
+    display: block;
+}
+
+form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+
+form input,
+button,
+select{
+    width: 100%;
+    padding: 16px;
+    border: 1px solid #48d1cc;
+    border-radius: 10px;
+}
