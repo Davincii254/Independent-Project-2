@@ -24,3 +24,19 @@ body{
     text-transform: uppercase;
     font-weight: bold;
 }
+
+
+h2{
+    text-align: center;
+}
+
+
+.wrapper {
+    box-shadow: 0 0 20px 0 rgba(0, 9, 19, 0.7);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.wrapper > * {
+    padding: 16px;
+}
